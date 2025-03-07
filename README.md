@@ -77,6 +77,8 @@ En base el tipo de aplicación que se requiera se puede ir por cualquier cloud m
 
 [Ver diagrama de arquitectura](https://drive.google.com/file/d/1lJ6MCyyOOdXhiqva7hD1rU1oJGVoDrzu/view?usp=sharing)
 
+[Ver diagrama de arquitectura DrawIo (https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&layers=1&nav=1&title=ArquitecturaAWS_Devsu.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1XUaEuTHBYr6akg0OzG3SXTtH4REY2ORz%26export%3Ddownload).
+
 4. Justificar las decisiones de diseño.
 
 La combinación de Amazon S3 para el almacenamiento de objetos estáticos del frontend con posibilidad de integración directa con CloudFront para distribución global, junto con la flexibilidad de Amazon EKS para la orquestación de contenedores del backend que permite patrones de despliegue avanzados como blue-green y canary, sumado a la capacidad de Amazon RDS para implementar bases de datos con alta disponibilidad mediante réplicas de lectura entre zonas con latencia mínima, conforman un ecosistema técnicamente superior en términos de integración nativa y rendimiento.
