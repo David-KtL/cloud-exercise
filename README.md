@@ -75,7 +75,7 @@ En base el tipo de aplicación que se requiera se puede ir por cualquier cloud m
 2. Diseñar una arquitectura de nube.
 3. Incluir diagramas que representen la arquitectura.
 
-[Ver diagrama de arquitectura](https://drive.google.com/file/d/1lJ6MCyyOOdXhiqva7hD1rU1oJGVoDrzu/view?usp=sharing)
+![Ver diagrama de arquitectura](https://drive.google.com/file/d/1lJ6MCyyOOdXhiqva7hD1rU1oJGVoDrzu/view?usp=sharing)
 
 [Ver diagrama de arquitectura DrawIo](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&layers=1&nav=1&title=ArquitecturaAWS_Devsu.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1XUaEuTHBYr6akg0OzG3SXTtH4REY2ORz%26export%3Ddownload).
 
