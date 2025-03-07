@@ -75,7 +75,7 @@ En base el tipo de aplicación que se requiera se puede ir por cualquier cloud m
 2. Diseñar una arquitectura de nube.
 3. Incluir diagramas que representen la arquitectura.
 
-[Ver diagrama de arquitectura](https://drive.google.com/file/d/1XUaEuTHBYr6akg0OzG3SXTtH4REY2ORz/view?usp=sharing)
+[Ver diagrama de arquitectura](https://drive.google.com/file/d/1lJ6MCyyOOdXhiqva7hD1rU1oJGVoDrzu/view?usp=sharing)
 
 4. Justificar las decisiones de diseño.
 
